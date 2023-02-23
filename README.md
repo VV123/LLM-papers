@@ -9,3 +9,4 @@
 ## Dataset
 
 * data1 [link]() Brief description
+* [PILE] (https://pile.eleuther.ai/) ~800G text
