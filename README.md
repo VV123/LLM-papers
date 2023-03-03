@@ -1,6 +1,8 @@
 # LLM
 
-[webpage example](https://github.com/anguyen8/XAI-papers/blob/master/README.md)
+This is a survey of Large Language Models (LLM).
+
+---------------------------------------
 
 ## Papers
 
@@ -10,3 +12,8 @@
 
 * data1 [link]() Brief description
 * [PILE](https://pile.eleuther.ai/) ~800G text
+
+## Contact
+
+Wenlu Wang
+wenlu.wang.1@gmail.com
