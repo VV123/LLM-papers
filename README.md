@@ -66,7 +66,7 @@ The authors preprocessed the data using a set of standard techniques, including 
 To train the model, the authors used the DeepSpeed and Megatron libraries, which are optimized for training large-scale language models on distributed computing clusters. They used a combination of data parallelism and model parallelism to distribute the training across multiple GPUs.
 The paper also describes the performance of the trained model on several language modeling benchmarks, including the LAMBADA and WikiText-103 datasets. The authors report state-of-the-art performance on both benchmarks.)
 
-* Data [https://github.com/kojima-takeshi188/zero_shot_cot]( Experiments used publicly available datasets except for “Last
+* Data [https://github.com/kojima-takeshi188/zero_shot_cot] ( Experiments used publicly available datasets except for “Last
 Letters” and “Coin Flip” datasets. We created these two datasets.
 (*1) N : Number, M : Pick up one from multiple choices, Y : Answer Yes or No, F : Free Format.
 (*2) Average number of words in questions texts.) 
