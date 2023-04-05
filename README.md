@@ -7,13 +7,13 @@ This is a survey of Large Language Models (LLM).
 ## Papers
 
 * Paper 1 - Finetuned Language Models Are Zero-Shot Learners
-  Paper 2 - SimVLM: Simple Visual Language Model Pretraining with Weak Supervision
-  Paper 3 - Gpt-neox-20b: An open-source autoregressive language model
-  Paper 4 - Scaling Language Models: Methods, Analysis & Insights from Training Gopher
-  Paper 5 - Training language models to follow instructions with human feedback
-  Paper 6 - Domain-specific language model pretraining for biomedical natural language processing
-  Paper 7 - Flamingo: a Visual Language Model for Few-Shot Learning
-  Paper 8 - Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, a Large-Scale Generative Language Model
+* Paper 2 - SimVLM: Simple Visual Language Model Pretraining with Weak Supervision
+* Paper 3 - Gpt-neox-20b: An open-source autoregressive language model
+* Paper 4 - Scaling Language Models: Methods, Analysis & Insights from Training Gopher
+* Paper 5 - Training language models to follow instructions with human feedback
+* Paper 6 - Domain-specific language model pretraining for biomedical natural language processing
+* Paper 7 - Flamingo: a Visual Language Model for Few-Shot Learning
+* Paper 8 - Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, a Large-Scale Generative Language Model
 
 
 
