@@ -6,7 +6,7 @@ This is a survey of Large Language Models (LLM).
 
 ## Papers
 
-* Paper 1 - Finetuned Language Models Are Zero-Shot Learners
+* [Finetuned Language Models Are Zero-Shot Learners](add the link)
 * Paper 2 - SimVLM: Simple Visual Language Model Pretraining with Weak Supervision
 * Paper 3 - Gpt-neox-20b: An open-source autoregressive language model
 * Paper 4 - Scaling Language Models: Methods, Analysis & Insights from Training Gopher
