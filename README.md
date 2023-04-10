@@ -7,13 +7,13 @@ This is a survey of Large Language Models (LLM).
 ## Papers
 
 * [Finetuned Language Models Are Zero-Shot Learners](https://pile.eleuther.ai/)
-* Paper 2 - SimVLM: Simple Visual Language Model Pretraining with Weak Supervision
-* Paper 3 - Gpt-neox-20b: An open-source autoregressive language model
-* Paper 4 - Scaling Language Models: Methods, Analysis & Insights from Training Gopher
-* Paper 5 - Training language models to follow instructions with human feedback
-* Paper 6 - Domain-specific language model pretraining for biomedical natural language processing
-* Paper 7 - Flamingo: a Visual Language Model for Few-Shot Learning
-* Paper 8 - Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, a Large-Scale Generative Language Model
+* [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision] (https://arxiv.org/abs/2108.10904)
+* [Gpt-neox-20b: An open-source autoregressive language model] (https://arxiv.org/abs/2204.06745)
+* [Scaling Language Models: Methods, Analysis & Insights from Training Gopher] (https://arxiv.org/abs/2112.11446)
+* [Training language models to follow instructions with human feedback] (https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)
+* [Domain-specific language model pretraining for biomedical natural language processing] (https://dl.acm.org/doi/abs/10.1145/3458754?casa_token=P-T8trc32d8AAAAA:94zBcf_gj0Ht5jLClGczKrM22PkBDJGvBHtYgI3P76BJHqz8OnfZsi8d7XAyfV4Nm0YbQsXtKFrf)
+* [Flamingo: a Visual Language Model for Few-Shot Learning] (https://arxiv.org/abs/2205.01068)
+* [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, a Large-Scale Generative Language Model] (https://arxiv.org/abs/2201.11990)
 
 
 
