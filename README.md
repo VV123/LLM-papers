@@ -6,7 +6,7 @@ This is a survey of Large Language Models (LLM).
 
 ## Papers
 
-* [Finetuned Language Models Are Zero-Shot Learners](https://pile.eleuther.ai/)
+* [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
 * [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/abs/2108.10904)
 * [Gpt-neox-20b: An open-source autoregressive language model](https://arxiv.org/abs/2204.06745)
 * [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
