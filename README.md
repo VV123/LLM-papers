@@ -1,4 +1,4 @@
-# LLM
+# Large Language Model (LLM)
 
 This is a survey of Large Language Models (LLM).
 
