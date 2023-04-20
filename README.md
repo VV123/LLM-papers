@@ -7,6 +7,7 @@ This is a survey of Large Language Models (LLM).
 ## Papers
 
 ### Multimodal
+* [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/)
 * [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2205.01068)
 * [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/abs/2108.10904)
 
@@ -20,13 +21,15 @@ This is a survey of Large Language Models (LLM).
 * [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)
 * [Domain-specific language model pretraining for biomedical natural language processing](https://dl.acm.org/doi/abs/10.1145/3458754?casa_token=P-T8trc32d8AAAAA:94zBcf_gj0Ht5jLClGczKrM22PkBDJGvBHtYgI3P76BJHqz8OnfZsi8d7XAyfV4Nm0YbQsXtKFrf)
 * [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, a Large-Scale Generative Language Model](https://arxiv.org/abs/2201.11990)
-
-  Paper - Training Compute-Optimal Large Language Models
+* [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
   
 
 
 ## Dataset
-* Data 1 (The paper uses a number of different datasets for their experiments. The main focus of the paper is on investigating the zero-shot capabilities of finetuned language models, and the authors use a variety of benchmark datasets to evaluate the performance of their models.Here is a brief overview of the datasets used in the paper:
+
+* [PILE](https://pile.eleuther.ai/) 800G text
+
+* Data 1 [Paper]() (This paper works on investigating the zero-shot capabilities of finetuned language models. Here is a brief overview of the datasets used in the paper:
 GLUE: The General Language Understanding Evaluation (GLUE) benchmark consists of a collection of nine different natural language understanding tasks, including sentiment analysis, natural language inference, and question answering. The authors use this dataset to evaluate the performance of their models on a range of different tasks.
 SuperGLUE: The SuperGLUE benchmark is an extension of the GLUE benchmark, consisting of a set of eight more difficult natural language understanding tasks. The authors use this dataset to evaluate the performance of their models on more challenging tasks.
 SQuAD: The Stanford Question Answering Dataset (SQuAD) consists of a set of Wikipedia articles and associated questions, where the goal is to answer the questions based on the information in the articles. The authors use this dataset to evaluate the performance of their models on question answering tasks.
@@ -69,12 +72,12 @@ The authors preprocessed the data using a set of standard techniques, including 
 To train the model, the authors used the DeepSpeed and Megatron libraries, which are optimized for training large-scale language models on distributed computing clusters. They used a combination of data parallelism and model parallelism to distribute the training across multiple GPUs.
 The paper also describes the performance of the trained model on several language modeling benchmarks, including the LAMBADA and WikiText-103 datasets. The authors report state-of-the-art performance on both benchmarks.)
 
-* Data [Github](https://github.com/kojima-takeshi188/zero_shot_cot) ( Experiments used publicly available datasets except for “Last
+* Data 9 [Github](https://github.com/kojima-takeshi188/zero_shot_cot) ( Experiments used publicly available datasets except for “Last
 Letters” and “Coin Flip” datasets. We created these two datasets.
 (*1) N : Number, M : Pick up one from multiple choices, Y : Answer Yes or No, F : Free Format.
 (*2) Average number of words in questions texts.) 
  
-* Data [https://github.com/openai/code-align-evals-data] ( Training dataset was collected in May 2020 from 54 million public software repositories hosted on GitHub, containing 179 GB of unique Python files under 1 MB. We filtered
+* Data 10 [https://github.com/openai/code-align-evals-data] ( Training dataset was collected in May 2020 from 54 million public software repositories hosted on GitHub, containing 179 GB of unique Python files under 1 MB. We filtered
 out files which were likely auto-generated, had average line
 length greater than 100, had maximum line length greater
 than 1000, or contained a small percentage of alphanumeric
@@ -82,7 +85,6 @@ characters. After filtering, our final dataset totaled 159 GB.)
 
 
 
-* [PILE](https://pile.eleuther.ai/) ~800G text
 
 ## Contact
 
