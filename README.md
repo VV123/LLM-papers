@@ -29,6 +29,17 @@ This is a survey of Large Language Models (LLM).
 
 * [PILE](https://pile.eleuther.ai/) 800G text
 
+* [Github](https://github.com/kojima-takeshi188/zero_shot_cot) (Experiments used publicly available datasets except for “Last
+Letters” and “Coin Flip” datasets. We created these two datasets.
+(*1) N : Number, M : Pick up one from multiple choices, Y : Answer Yes or No, F : Free Format.
+(*2) Average number of words in questions texts.) 
+ 
+* [Github](https://github.com/openai/code-align-evals-data) (Training dataset was collected in May 2020 from 54 million public software repositories hosted on GitHub, containing 179 GB of unique Python files under 1 MB. We filtered
+out files which were likely auto-generated, had average line
+length greater than 100, had maximum line length greater
+than 1000, or contained a small percentage of alphanumeric
+characters. After filtering, our final dataset totaled 159 GB.)
+
 * Data 1 [Paper]() (This paper works on investigating the zero-shot capabilities of finetuned language models. Here is a brief overview of the datasets used in the paper:
 GLUE: The General Language Understanding Evaluation (GLUE) benchmark consists of a collection of nine different natural language understanding tasks, including sentiment analysis, natural language inference, and question answering. The authors use this dataset to evaluate the performance of their models on a range of different tasks.
 SuperGLUE: The SuperGLUE benchmark is an extension of the GLUE benchmark, consisting of a set of eight more difficult natural language understanding tasks. The authors use this dataset to evaluate the performance of their models on more challenging tasks.
@@ -71,17 +82,6 @@ The authors also perform an ablation study on the different components of Flamin
 The authors preprocessed the data using a set of standard techniques, including tokenization, subword segmentation, and data shuffling. They also applied data augmentation techniques to increase the diversity of the training data.
 To train the model, the authors used the DeepSpeed and Megatron libraries, which are optimized for training large-scale language models on distributed computing clusters. They used a combination of data parallelism and model parallelism to distribute the training across multiple GPUs.
 The paper also describes the performance of the trained model on several language modeling benchmarks, including the LAMBADA and WikiText-103 datasets. The authors report state-of-the-art performance on both benchmarks.)
-
-* Data 9 [Github](https://github.com/kojima-takeshi188/zero_shot_cot) ( Experiments used publicly available datasets except for “Last
-Letters” and “Coin Flip” datasets. We created these two datasets.
-(*1) N : Number, M : Pick up one from multiple choices, Y : Answer Yes or No, F : Free Format.
-(*2) Average number of words in questions texts.) 
- 
-* Data 10 (Github)[https://github.com/openai/code-align-evals-data] ( Training dataset was collected in May 2020 from 54 million public software repositories hosted on GitHub, containing 179 GB of unique Python files under 1 MB. We filtered
-out files which were likely auto-generated, had average line
-length greater than 100, had maximum line length greater
-than 1000, or contained a small percentage of alphanumeric
-characters. After filtering, our final dataset totaled 159 GB.)
 
 
 
