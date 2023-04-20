@@ -6,12 +6,12 @@ This is a survey of Large Language Models (LLM).
 
 ## Papers
 
-### Multimodal
+### Multimodal LLM
 * [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/)
 * [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2205.01068)
 * [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/abs/2108.10904)
 
-### Coding
+### Coding LLM
 * [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
 
 ### LLM
