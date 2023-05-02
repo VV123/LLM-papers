@@ -3,6 +3,10 @@
 This is a survey of Large Language Models (LLM).
 
 ---------------------------------------
+## Models
+
+* [GTP4ALL](https://github.com/nomic-ai/gpt4all) an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue.
+
 
 ## Papers
 
