@@ -7,10 +7,12 @@ This is a survey of Large Language Models (LLM).
 
 * [GTP4ALL](https://github.com/nomic-ai/gpt4all) an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue.
 
-
 ## Papers
 
 ### Multimodal LLM
+* [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) [paper](https://arxiv.org/abs/2304.12995)
+* [Otter](https://github.com/Luodian/Otter) based on Flamingo
+* [Llama Adapter v2](https://github.com/ZrrSkywalker/LLaMA-Adapter) [paper](https://arxiv.org/abs/2304.15010)
 * [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/)
 * [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2205.01068)
 * [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/abs/2108.10904)
@@ -27,7 +29,8 @@ This is a survey of Large Language Models (LLM).
 * [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, a Large-Scale Generative Language Model](https://arxiv.org/abs/2201.11990)
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
   
-
+## Understanding
+* [Are Emergent Abilities of Large Language Models a Mirage](https://arxiv.org/pdf/2304.15004.pdf)
 
 ## Dataset
 
