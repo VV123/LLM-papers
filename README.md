@@ -17,8 +17,11 @@ This is a survey of Large Language Models (LLM).
 * [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2205.01068)
 * [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/abs/2108.10904)
 
-### Coding LLM
-* [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
+### Domain-specific LLM
+* Coding -> [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
+* Biology -> [GeneGPT](https://arxiv.org/abs/2304.09667) Teaching Large Language Models to Use NCBI Web APIs
+* Finance -> [BloombergGPT](https://arxiv.org/abs/2303.17564) A Large Language Model for Finance
+* Medical -> [ChatDoctor](https://arxiv.org/abs/2303.14070) Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge
 
 ### LLM
 * [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
@@ -30,6 +33,7 @@ This is a survey of Large Language Models (LLM).
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
   
 ## Understanding
+* [Eight Things to Know about Large Language Models](https://arxiv.org/abs/2304.00612)
 * [Are Emergent Abilities of Large Language Models a Mirage](https://arxiv.org/pdf/2304.15004.pdf)
 
 ## Dataset
