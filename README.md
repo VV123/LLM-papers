@@ -29,6 +29,9 @@ This is a survey of Large Language Models (LLM).
 * [Domain-specific language model pretraining for biomedical natural language processing](https://dl.acm.org/doi/abs/10.1145/3458754?casa_token=P-T8trc32d8AAAAA:94zBcf_gj0Ht5jLClGczKrM22PkBDJGvBHtYgI3P76BJHqz8OnfZsi8d7XAyfV4Nm0YbQsXtKFrf)
 * [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, a Large-Scale Generative Language Model](https://arxiv.org/abs/2201.11990)
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
+
+### NL
+* [LLM Serve as A Database Interface](https://arxiv.org/pdf/2305.03111.pdf)
   
 ## Understanding
 * [Eight Things to Know about Large Language Models](https://arxiv.org/abs/2304.00612)
