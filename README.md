@@ -30,12 +30,12 @@ This is a survey of Large Language Models (LLM).
 * [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, a Large-Scale Generative Language Model](https://arxiv.org/abs/2201.11990)
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
-### NL
+### NLI
 * [LLM Serve as A Database Interface](https://arxiv.org/pdf/2305.03111.pdf)
 * [Demonstration of InsightPilot: An LLM-Empowered Automated Data Exploration System](https://arxiv.org/pdf/2304.00477.pdf)
-* []()
   
 ## Understanding
+* [Evidence of Meaning in Language Models Trained on Programs](https://arxiv.org/abs/2305.11169)
 * [Eight Things to Know about Large Language Models](https://arxiv.org/abs/2304.00612)
 * [Are Emergent Abilities of Large Language Models a Mirage](https://arxiv.org/pdf/2304.15004.pdf)
 
