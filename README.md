@@ -32,6 +32,7 @@ This is a survey of Large Language Models (LLM).
 
 ### NLI
 * [LLM Serve as A Database Interface](https://arxiv.org/pdf/2305.03111.pdf)
+* [DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction](https://arxiv.org/pdf/2304.11015.pdf)
 * [Demonstration of InsightPilot: An LLM-Empowered Automated Data Exploration System](https://arxiv.org/pdf/2304.00477.pdf)
   
 ## Understanding
