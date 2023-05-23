@@ -32,6 +32,8 @@ This is a survey of Large Language Models (LLM).
 
 ### NL
 * [LLM Serve as A Database Interface](https://arxiv.org/pdf/2305.03111.pdf)
+* [Demonstration of InsightPilot: An LLM-Empowered Automated Data Exploration System](https://arxiv.org/pdf/2304.00477.pdf)
+* []()
   
 ## Understanding
 * [Eight Things to Know about Large Language Models](https://arxiv.org/abs/2304.00612)
