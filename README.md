@@ -16,6 +16,7 @@ This is a survey of Large Language Models (LLM).
 * [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/abs/2108.10904)
 
 ### Domain-specific LLM
+* Minecraft -> [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/assets/documents/voyager.pdf)
 * Coding -> [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
 * Biology -> [GeneGPT](https://arxiv.org/abs/2304.09667) Teaching Large Language Models to Use NCBI Web APIs
 * Finance -> [BloombergGPT](https://arxiv.org/abs/2303.17564) A Large Language Model for Finance
