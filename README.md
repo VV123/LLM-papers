@@ -38,6 +38,7 @@ This is a survey of Large Language Models (LLM).
 * [DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction](https://arxiv.org/pdf/2304.11015.pdf)
 * [Demonstration of InsightPilot: An LLM-Empowered Automated Data Exploration System](https://arxiv.org/pdf/2304.00477.pdf)
 * [Data BIRD-SQL](https://bird-bench.github.io/)
+* [Is GPT-4 a Good Data Analyst?](https://arxiv.org/abs/2305.15038)
   
 ## Understanding
 * [Evidence of Meaning in Language Models Trained on Programs](https://arxiv.org/abs/2305.11169)
