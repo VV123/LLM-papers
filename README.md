@@ -19,10 +19,11 @@ This is a survey of Large Language Models (LLM).
 
 ### Domain-specific LLM
 * Minecraft -> [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/assets/documents/voyager.pdf)
-* Coding -> [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
 * Biology -> [GeneGPT](https://arxiv.org/abs/2304.09667) Teaching Large Language Models to Use NCBI Web APIs
 * Finance -> [BloombergGPT](https://arxiv.org/abs/2303.17564) A Large Language Model for Finance
 * Medical -> [ChatDoctor](https://arxiv.org/abs/2303.14070) Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge
+* Coding -> [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128),
+[Enabling Programming Thinking in Large Language Models Toward Code Generation](https://arxiv.org/pdf/2305.06599.pdf)
 
 ### LLM
 * [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
