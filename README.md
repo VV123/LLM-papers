@@ -46,6 +46,9 @@ This is a survey of Large Language Models (LLM).
 * [Eight Things to Know about Large Language Models](https://arxiv.org/abs/2304.00612)
 * [Are Emergent Abilities of Large Language Models a Mirage](https://arxiv.org/pdf/2304.15004.pdf)
 
+## Search
+* [SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/pdf/2204.01457.pdf)
+
 ## Dataset
 
 * [PILE](https://pile.eleuther.ai/) 800G text Pile is a large, diverse, and open-sourced dataset created by concatenating over 800 public datasets. The Pile dataset includes a wide range of text, including books, scientific articles, news articles, and web pages. The authors used the Pile dataset to fine-tune the GPT-NeoX-20B model.
