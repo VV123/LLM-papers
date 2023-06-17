@@ -23,7 +23,7 @@ This is a survey of Large Language Models (LLM).
 * Finance -> [BloombergGPT](https://arxiv.org/abs/2303.17564) A Large Language Model for Finance
 * Medical -> [ChatDoctor](https://arxiv.org/abs/2303.14070) Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge
 * Coding -> 
-  * [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128),
+  * [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
   * [Enabling Programming Thinking in Large Language Models Toward Code Generation](https://arxiv.org/pdf/2305.06599.pdf)
 
 ### LLM
