@@ -25,6 +25,7 @@ This is a survey of Large Language Models (LLM).
 * Coding -> 
   * [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
   * [Enabling Programming Thinking in Large Language Models Toward Code Generation](https://arxiv.org/pdf/2305.06599.pdf)
+  * [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)
 
 ### LLM
 * [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
