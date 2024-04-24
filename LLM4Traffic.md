@@ -26,13 +26,12 @@
 * [Large Language Model-Driven Urban Traffic Signal Control](https://ieeexplore.ieee.org/document/10432823)
 * [Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs](https://arxiv.org/abs/2404.04869)
 * [Integrating Large Language Models for Severity Classification in Traffic Incident Management: A Machine Learning Approach](https://arxiv.org/abs/2403.13547)
-Explainable Traffic Flow Prediction with Large Language Models	https://arxiv.org/html/2404.02937v3
-MultiCoNER: A Large-scale Multilingual Dataset for Complex Named Entity Recognition	https://arxiv.org/abs/2208.14536
-The Role of LLMs in Sustainable Smart Cities: Applications, Challenges, and Future Directions	https://arxiv.org/abs/2402.14596
-Generative Adversarial Networks: An Overview	https://arxiv.org/abs/1710.07035
-Driving with llms: Fusing  object-level vector modality for explainable autonomous driving.	https://arxiv.org/abs/2310.01957
-TrafficBERT: Pre-trained model with large-scale data for long-range traffic flow forecasting	https://www.sciencedirect.com/science/article/abs/pii/S0957417421011179
-DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation	https://arxiv.org/abs/2403.06845
+* [Explainable Traffic Flow Prediction with Large Language Models](https://arxiv.org/html/2404.02937v3)
+* [MultiCoNER: A Large-scale Multilingual Dataset for Complex Named Entity Recognition](https://arxiv.org/abs/2208.14536)
+* [The Role of LLMs in Sustainable Smart Cities: Applications, Challenges, and Future Directions](https://arxiv.org/abs/2402.14596)
+* [Driving with llms: Fusing  object-level vector modality for explainable autonomous driving.](https://arxiv.org/abs/2310.01957)
+* [TrafficBERT: Pre-trained model with large-scale data for long-range traffic flow forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0957417421011179)
+* [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845)
 Large Language Model-Driven Urban Traffic Signal Control.	https://arxiv.org/abs/2312.16044
 CHATATC: Large Language Model-Driven Conversational Agents for Supporting Strategic Air Traffic Flow Management	https://arxiv.org/abs/2402.14850
 An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems	https://arxiv.org/abs/2403.16809
