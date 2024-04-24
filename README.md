@@ -4,9 +4,6 @@ This is a survey of Large Language Models (LLM).
 
 ---------------------------------------
 
-### Improving LLM
-* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
-
 ### Multimodal LLM
 * [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) [paper](https://arxiv.org/abs/2304.12995)
 * [Otter](https://github.com/Luodian/Otter) based on Flamingo
@@ -25,7 +22,8 @@ This is a survey of Large Language Models (LLM).
   * [Enabling Programming Thinking in Large Language Models Toward Code Generation](https://arxiv.org/pdf/2305.06599.pdf)
   * [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)
 
-### LLM
+### LLM in General
+* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
 * [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
 * [Gpt-neox-20b: An open-source autoregressive language model](https://arxiv.org/abs/2204.06745)
 * [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
@@ -34,7 +32,7 @@ This is a survey of Large Language Models (LLM).
 * [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, a Large-Scale Generative Language Model](https://arxiv.org/abs/2201.11990)
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
-### NLI
+### LLM for DBMS
 * [LLM Serve as A Database Interface](https://arxiv.org/pdf/2305.03111.pdf)
 * [DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction](https://arxiv.org/pdf/2304.11015.pdf)
 * [Demonstration of InsightPilot: An LLM-Empowered Automated Data Exploration System](https://arxiv.org/pdf/2304.00477.pdf)
