@@ -32,16 +32,11 @@
 * [Driving with llms: Fusing  object-level vector modality for explainable autonomous driving.](https://arxiv.org/abs/2310.01957)
 * [TrafficBERT: Pre-trained model with large-scale data for long-range traffic flow forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0957417421011179)
 * [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845)
-Large Language Model-Driven Urban Traffic Signal Control.	https://arxiv.org/abs/2312.16044
-CHATATC: Large Language Model-Driven Conversational Agents for Supporting Strategic Air Traffic Flow Management	https://arxiv.org/abs/2402.14850
-An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems	https://arxiv.org/abs/2403.16809
-MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving	https://arxiv.org/abs/2404.02015
-Towards Reasoning in Large Language Models: A Survey	https://arxiv.org/abs/2212.10403
-Extracting Training Data from Large Language Models	https://arxiv.org/abs/2012.07805
-Talking About Large Language Models	https://arxiv.org/abs/2212.03551
-Large Language Models in Machine Translation	https://aclanthology.org/D07-1090.pdf
-Paraphrasing with Large Language Models	https://aclanthology.org/D19-5623/
-LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments	https://arxiv.org/abs/2403.08337
+* [Large Language Model-Driven Urban Traffic Signal Control.](https://arxiv.org/abs/2312.16044)
+* [CHATATC: Large Language Model-Driven Conversational Agents for Supporting Strategic Air Traffic Flow Management](https://arxiv.org/abs/2402.14850)
+* [An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems](https://arxiv.org/abs/2403.16809)
+* [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
+* [LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments](https://arxiv.org/abs/2403.08337)
 Robust Traffic Rules and Knowledge Representation for Conflict Resolution in Autonomous Driving 	https://ceur-ws.org/Vol-3229/paper59.pdf
 Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning	https://arxiv.org/abs/2308.14284
 Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles	https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_Drive_As_You_Speak_Enabling_Human-Like_Interaction_With_Large_Language_WACVW_2024_paper.pdf
