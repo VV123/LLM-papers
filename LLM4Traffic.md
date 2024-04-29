@@ -2,7 +2,8 @@
 
 ### LLM for Traffic Dataset
 
-* [Expert in Transportation Safety](https://docs.google.com/spreadsheets/d/1PTztJw3pq1Eau0ZM2uL7N_yilv6H36QC/edit#gid=1950504010)
+* data -> [Expert in Transportation Safety](https://docs.google.com/spreadsheets/d/1PTztJw3pq1Eau0ZM2uL7N_yilv6H36QC/edit#gid=1950504010)
+ paper -> [TrafficSafetyGPT: Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety](https://arxiv.org/pdf/2307.15311)
   
 ### LLM for Traffic
 
@@ -42,7 +43,7 @@
 * [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
 * [LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments](https://arxiv.org/abs/2403.08337)
 * [Robust Traffic Rules and Knowledge Representation for Conflict Resolution in Autonomous Driving](https://ceur-ws.org/Vol-3229/paper59.pdf)
-Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning	https://arxiv.org/abs/2308.14284
+* [Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning](https://arxiv.org/abs/2308.14284)
 Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles	https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_Drive_As_You_Speak_Enabling_Human-Like_Interaction_With_Large_Language_WACVW_2024_paper.pdf
 From Words to Routes: Applying Large Language Models to Vehicle Routing	https://arxiv.org/abs/2403.10795
 DriveLLM: Charting The Path Toward Full Autonomous Driving with Large Language Models	https://ieeexplore.ieee.org/document/10297415
