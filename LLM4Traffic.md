@@ -41,7 +41,7 @@
 * [An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems](https://arxiv.org/abs/2403.16809)
 * [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
 * [LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments](https://arxiv.org/abs/2403.08337)
-Robust Traffic Rules and Knowledge Representation for Conflict Resolution in Autonomous Driving 	https://ceur-ws.org/Vol-3229/paper59.pdf
+* [Robust Traffic Rules and Knowledge Representation for Conflict Resolution in Autonomous Driving](https://ceur-ws.org/Vol-3229/paper59.pdf)
 Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning	https://arxiv.org/abs/2308.14284
 Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles	https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_Drive_As_You_Speak_Enabling_Human-Like_Interaction_With_Large_Language_WACVW_2024_paper.pdf
 From Words to Routes: Applying Large Language Models to Vehicle Routing	https://arxiv.org/abs/2403.10795
