@@ -97,7 +97,4 @@ For their experiments, the authors use a preprocessed version of the Conceptual 
 * WikiText-103
 
 
-## Contact
 
-Wenlu Wang
-wenlu.wang.1@gmail.com
