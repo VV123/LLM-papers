@@ -4,41 +4,23 @@
 
 - data -> [Expert in Transportation Safety](https://docs.google.com/spreadsheets/d/1PTztJw3pq1Eau0ZM2uL7N_yilv6H36QC/edit#gid=1950504010)
   paper -> [TrafficSafetyGPT: Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety](https://arxiv.org/pdf/2307.15311)
-
 - data -> [LLMTSCTS](https://github.com/usail-hkust/LLMTSCS/tree/main/data) paper -> [LLMLight: Large Language Models as Traffic Signal Control Agents](https://arxiv.org/abs/2312.16044)
-
 - data -> [Driving with LLMs](https://github.com/wayveai/Driving-with-LLMs/tree/main/data) paper -> [Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/abs/2310.01957)
-
 - data -> [TrafficSafetyGPT](https://github.com/ozheng1993/TrafficSafetyGPT) paper -> [TrafficSafetyGPT: Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety](https://arxiv.org/abs/2307.15311)
-
 - data -> [Drive Thinking Dataset](https://github.com/AIR-DISCOVER/Driving-Thinking-Dataset) paper -> [Driving Style Alignment for LLM-powered Driver Agent](https://arxiv.org/abs/2403.11368)
-
 - data -> [Agent Driver Data](https://github.com/USC-GVL/Agent-Driver/tree/main/data) paper -> [A Language Agent for Autonomous Driving](https://arxiv.org/abs/2311.10813)
-
 - data -> [Fatality Analysis Reporting System (FARS), 2020, which is a comprehensive repository detailing accidents across the USA. Specifically, the accidents.csv file from the 2020 National CSV archive was employed for this study](https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip) paper -> [LLM Multimodal Traffic Accident Forecasting](https://www.mdpi.com/1424-8220/23/22/9225)
-
 - data -> [Argoverse dataset](https://www.argoverse.org/index.html), [Interaction dataset](https://interaction-dataset.com), [Nuscenes dataset](https://www.nuscenes.org) paper -> [Robust Traffic Rules and Knowledge Representation for Conflict Resolution in Autonomous Driving](https://ceur-ws.org/Vol-3229/paper59.pdf)
-
 - data -> [PromptGAT dataset](https://github.com/DaRL-LibSignal/PromptGAT/tree/main/dataset) paper -> [Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning](https://arxiv.org/abs/2308.14284)
-
 - data -> [Nuscenes dataset](https://www.nuscenes.org) paper -> [Language-Guided Traffic Simulation via Scene-Level Diffusion](https://arxiv.org/abs/2306.06344)
-
 - data -> [Waymo dataset](https://waymo.com/open/) paper -> [Language Conditioned Traffic Generation](https://arxiv.org/abs/2307.07947)
-
 - data -> [Waymo dataset](https://waymo.com/open/), [Nuscenes dataset](https://www.nuscenes.org) paper -> [Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent](https://arxiv.org/abs/2311.18307)
-
 - data -> [DRAMA dataset](https://usa.honda-ri.com/drama) paper -> [HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/abs/2309.05186)
-
 - data -> [BERTTraffic used 3 public databases and 2 private databases (see Table 1 on paper)](https://github.com/idiap/bert-text-diarization-atc?tab=readme-ov-file#download-the-data) paper -> [BERTraffic: BERT-based Joint Speaker Role and Speaker Change Detection for Air Traffic Control Communications](https://arxiv.org/abs/2110.05781)
-
 - data -> [highD dataset](https://levelxdata.com/highd-dataset/) paper -> [LC-LLM: Explainable Lane-Change Intention and Trajectory Predictions with Large Language Models](https://arxiv.org/html/2403.18344v1)
-
 - data -> [Traffic Signal Control Datasets](https://traffic-signal-control.github.io/dataset.html) paper -> [Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control](https://ojs.aaai.org/index.php/AAAI/article/view/5744)
-
 - data -> [1999 DARPA Intrusion Detection Evaluation Data Set](https://archive.ll.mit.edu/ideval/data/1999data.html) , [Also uses another dataset called PESIM 2005 Dataset, NOT FOUND]() paper -> [Language models for detection of unknown attacks in network traffic](https://mlsec.org/docs/2007-jicv.pdf)
-
 - data -> [BDD-X Dataset](https://drive.google.com/file/d/1Na-jxLK7VxOc6wcT5lnLQytfFi6rqhTF/view) paper -> [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/abs/2310.01412)
-
 - data -> [Severe Injury Report (SIR) Data](https://catalog.data.gov/dataset/severe-injury-report-sir-data-68a35) paper -> [Highway Construction Safety Analysis Using Large Language Models](https://www.mdpi.com/2076-3417/14/4/1352)
 
 ### LLM for Traffic 
