@@ -1,6 +1,6 @@
 # LLM for Traffic
 
-### Dataset (add a dataset if found)
+### Dataset 
 
 - data -> [Expert in Transportation Safety](https://docs.google.com/spreadsheets/d/1PTztJw3pq1Eau0ZM2uL7N_yilv6H36QC/edit#gid=1950504010)
   paper -> [TrafficSafetyGPT: Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety](https://arxiv.org/pdf/2307.15311)
@@ -41,7 +41,7 @@
 
 - data -> [Severe Injury Report (SIR) Data](https://catalog.data.gov/dataset/severe-injury-report-sir-data-68a35) paper -> [Highway Construction Safety Analysis Using Large Language Models](https://www.mdpi.com/2076-3417/14/4/1352)
 
-### LLM for Traffic (do not remove papers from here)
+### LLM for Traffic 
 
 - [LLMLight: Large Language Models as Traffic Signal Control Agents](https://arxiv.org/abs/2312.16044)
 - [ChatGPT is on the Horizon: Could a Large Language Model be Suitable for Intelligent Traffic Safety Research and Applications?](https://arxiv.org/abs/2303.05382)
