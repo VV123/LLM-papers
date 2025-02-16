@@ -1,1 +1,1 @@
-- (Example) (Paper)[Paper Link]
+- (Example) [Paper](Paper Link)
