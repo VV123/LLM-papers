@@ -1,4 +1,4 @@
-This repository lists papers in the biology field and related with the following key works 
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/2ff7bd5d-1f22-4e08-8707-a966bf6ea9ec" />This repository lists papers in the biology field and related with the following key works 
 
 Key words: CRISPR; Gene Editing; Genotype-Phenotype Associations; Variant Interpretation; Ancient DNA; Multi-omics; Synthetic Biology; Evolutionary Genetics; Integrative Genomics; Gene Synthesis
 
@@ -9,4 +9,9 @@ Key words: CRISPR; Gene Editing; Genotype-Phenotype Associations; Variant Interp
    snoRNA, tRNA) were either incomplete or entirely absent. The findings highlight that evolutionary divergence limits the accuracy of 
    genome reconstruction, affecting traits critical for survival
 
+- [A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity](https://www.science.org/doi/full/10.1126/science.1225829)
+  Keywords: CRISPR, Gene Editing，CRISPR/CAS9，Nobel Prize in Chemistry 2020，Emmanuelle Charpentier and Jennifer A. Doudna
+  Publication: Science (2012)
+  Summary:
+  
 - 
