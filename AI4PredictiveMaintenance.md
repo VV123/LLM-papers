@@ -1,1 +1,10 @@
+- https://www.sciencedirect.com/science/article/pii/S2212827118312988
+- https://ieeexplore.ieee.org/document/8707108
+- https://arxiv.org/pdf/2407.17654
+- https://arxiv.org/abs/2311.09333
+- https://ieeexplore.ieee.org/document/9463585
+- https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9613359
+- https://arxiv.org/pdf/2405.12785
+- https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9696318
+- https://www.sciencedirect.com/science/article/pii/S0360544221000244
 - 
