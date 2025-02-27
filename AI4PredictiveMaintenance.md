@@ -7,4 +7,11 @@
 - https://arxiv.org/pdf/2405.12785
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9696318
 - https://www.sciencedirect.com/science/article/pii/S0360544221000244
+- https://arxiv.org/pdf/2009.00351
+- https://ieeexplore.ieee.org/document/6879441
+- https://www.mdpi.com/1424-8220/22/1/13
+- https://www.sciencedirect.com/science/article/pii/S2212827118312988
+- https://ieeexplore.ieee.org/document/9131796
+- https://www.sciencedirect.com/science/article/pii/S0360544221000244
+- Predictive Maintenance Based on Embedded AI and Wireless Monitoring of Working Environment
 - 
