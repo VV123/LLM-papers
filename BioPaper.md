@@ -1,4 +1,4 @@
-<img width="1105" alt="image" src="https://github.com/user-attachments/assets/2ff7bd5d-1f22-4e08-8707-a966bf6ea9ec" />This repository lists papers in the biology field and related with the following key works 
+This repository lists papers in the biology field and related with the following key works 
 
 (Do NOT need to be related to AI/Deep Learning. ONLY need to find pure biology papers. Please find 10-20 papers.)
 
