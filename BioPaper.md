@@ -62,8 +62,5 @@ Key words: CRISPR; Gene Editing; Genotype-Phenotype Associations; Variant Interp
   - **Paper Summary:** will fill later
   - **Comments:** Using big data algorithms, discover 188 new CRISPR systems at once
 
-### Background knowledge reading:
-- **What is CRISPR?**
-  - [Stanford explainer on CRISPR gene editing and beyond](https://news.stanford.edu/stories/2024/06/stanford-explainer-crispr-gene-editing-and-beyond)
-  - [YouTube video: Introduction to CRISPR](https://www.youtube.com/watch?v=HANo__Z8K6s)
+
 
