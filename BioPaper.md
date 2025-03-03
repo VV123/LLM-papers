@@ -11,6 +11,9 @@ Key words: CRISPR; Gene Editing; Genotype-Phenotype Associations; Variant Interp
    snoRNA, tRNA) were either incomplete or entirely absent. The findings highlight that evolutionary divergence limits the accuracy of 
    genome reconstruction, affecting traits critical for survival
 
+## Genotype-Phenotype Associations
+
+
 
 ## CRISPR; Gene Editing
 
