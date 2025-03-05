@@ -14,4 +14,13 @@
 - https://ieeexplore.ieee.org/document/9131796
 - https://www.sciencedirect.com/science/article/pii/S0360544221000244
 - Predictive Maintenance Based on Embedded AI and Wireless Monitoring of Working Environment
+- https://ojs.aaai.org/index.php/AAAI/article/view/21538
+- https://ieeexplore.ieee.org/abstract/document/6879441?casa_token=gQbLKskt5wMAAAAA:6z-MUiDBFdLaSQ2zyN6h3HESIA2fV2xIqpCRgoykH22aQfjjAM5jZMu3RhtDxvUFNZmmgruSev6H
+- https://ieeexplore.ieee.org/abstract/document/10577641?casa_token=wOwnz7hTb4YAAAAA:B_oUtSRkTCbbsIu61PquZjecJ5qmu-wbgouyxH3UaR6G1wgFr6jITQBxfm4CqrpEQMWcKU7KqdjG
+- Predictive maintenance for increasing ev charging load in distribution power system.
+- Transforming equipment management in oil and gas with AI-Driven predictive maintenance
+- https://ieeexplore.ieee.org/document/9463585
+- https://ojs.aaai.org/index.php/AAAI/article/view/29467
+- https://ojs.bonviewpress.com/index.php/AIA/article/view/1513
 - 
+
