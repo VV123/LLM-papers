@@ -3,4 +3,5 @@
 - Machine learning models for phenotype prediction from genotype.
 - Biom2: biologically informed multi-stage machine learning for phenotype prediction using omics data.
 - Phenolinker: Phenotype-gene link prediction and explanation using heterogeneous graph neural networks
+- Plant genotype to phenotype prediction using machine learning.
 
