@@ -13,6 +13,15 @@
 - Deep kernel and deep learning for genome-based prediction of single traits in multienvironment breeding trials.
 - Learning from methylomes: epigenomic correlates of Populus balsamifera traits based on deep learning models of natural DNA methylation.
 - Efficient genomic selection using ensemble learning and ensemble feature reduction.
+- https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2019.01091/full
+- https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04077-9
+- https://link.springer.com/article/10.1007/s00425-018-2976-9
+- plant genotype to phenotype prediction using machine learning.
+- Human genotype-to-phenotype predictions: Boosting accuracy with machine learning.
+- Transfer learning for genotype–phenotype prediction using deep learning.
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11420924/
+- Deepat: A deep learning wheat phenotype prediction model based on genotype data.
+- machine learning for predicting phenotype from genotype and environment.
 
 
 
