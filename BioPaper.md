@@ -21,10 +21,7 @@ Please follow the EXAMPLE
   CRISPR-Cas9 uses dual-RNAs to guide Cas9 in cutting specific DNA sequences, enabling targeted genome editing.
   
 - **[Fanzor is a eukaryotic programmable RNA-guided endonuclease](http://nature.com/articles/s41586-023-06356-2)**
-  - **Keywords:** CRISPR, Gene Editing, CRISPR/CAS9, Feng Zhang
-  - **Publication:** Nature (2023)
-  - **Paper Summary:** Fanzor is a eukaryotic RNA-guided endonuclease that can be reprogrammed for genome editing.
-  - **Comments:** The first RNA-guided DNA nuclease, named Fanzor, is a CRISPR-like system that has been discovered in eukaryotes and can reprogram the human genome.
+  The first RNA-guided DNA nuclease, named Fanzor, is a CRISPR-like system that has been discovered in eukaryotes and can reprogram the human genome.
 
 
 - **[CRISPR-Cas9 Gene Editing for Sickle Cell Disease and β-Thalassemia](https://www.nejm.org/doi/full/10.1056/NEJMoa2031054)**
