@@ -4,9 +4,11 @@ This repository lists papers in the biology field and related with the following
 
 Key words: CRISPR; Gene Editing; Genotype-Phenotype Associations; Variant Interpretation; Ancient DNA; Multi-omics; Synthetic Biology; Evolutionary Genetics; Integrative Genomics; Gene Synthesis
 
+Please follow the EXAMPLE
+
 ## Genotype-Phenotype Associations
 
-- [Probing the genomic limits of de-extinction in the Christmas Island rat](https://pubmed.ncbi.nlm.nih.gov/35271794/)
+- EXAMPLE [Probing the genomic limits of de-extinction in the Christmas Island rat](https://pubmed.ncbi.nlm.nih.gov/35271794/)
   
    This paper examines the feasibility of de-extinction using the Christmas Island    rat (Rattus macleari) by mapping its genome to 
    the Norway brown rat (Rattus norvegicus). Despite recovering 95% of the genome, key genes related to immune response (MHC class I, 
@@ -16,12 +18,7 @@ Key words: CRISPR; Gene Editing; Genotype-Phenotype Associations; Variant Interp
 
 
 - **[A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity](https://www.science.org/doi/full/10.1126/science.1225829)**
-  - **Keywords:** CRISPR, Gene Editing, CRISPR/CAS9, Nobel Prize in Chemistry 2020, Emmanuelle Charpentier, Jennifer A. Doudna
-  - **Publication:** Science (2012)  
-  - **Paper Summary:** CRISPR-Cas9 uses dual-RNAs to guide Cas9 in cutting specific DNA sequences, enabling targeted genome editing.
-  - **Comments:** This is a groundbreaking study that highlighted the potential of CRISPR-Cas9 as an RNA-programmable genome editing tool, igniting the revolution in gene editing technology. 
-  - [Related published video](https://www.youtube.com/watch?v=HANo__Z8K6s)
-
+  CRISPR-Cas9 uses dual-RNAs to guide Cas9 in cutting specific DNA sequences, enabling targeted genome editing.
   
 - **[Fanzor is a eukaryotic programmable RNA-guided endonuclease](http://nature.com/articles/s41586-023-06356-2)**
   - **Keywords:** CRISPR, Gene Editing, CRISPR/CAS9, Feng Zhang
