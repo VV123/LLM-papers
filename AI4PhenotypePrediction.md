@@ -22,6 +22,10 @@
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC11420924/
 - Deepat: A deep learning wheat phenotype prediction model based on genotype data.
 - machine learning for predicting phenotype from genotype and environment.
+- Explainable artificial intelligence for genotype-to-phenotype predictions in plant breeding.
+- G2PDiffusion: Cross-Species Genotype-to-Phenotype Prediction via Evolutionary Diffusion
+- A machine learning pipeline for quantitative phenotype prediction from genotype data
+- 
 
 
 
