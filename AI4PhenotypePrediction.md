@@ -26,7 +26,10 @@
 - G2PDiffusion: Cross-Species Genotype-to-Phenotype Prediction via Evolutionary Diffusion
 - A machine learning pipeline for quantitative phenotype prediction from genotype data
 - Plant genotype to phenotype prediction using machine learning.
-- 
+- Can deep learning improve genomic prediction of complex human traits?
+- An evaluation of machine-learning for predicting phenotype: studies in yeast, rice, and wheat
+- Graphgonet: a self-explaining neural network encapsulating the gene ontology graph for phenotype prediction on gene expression.
+- Hpod-nets: deep graph convolutional networks for predicting human protein–phenotype associations.
 
 
 
