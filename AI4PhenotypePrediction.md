@@ -25,6 +25,7 @@
 - Explainable artificial intelligence for genotype-to-phenotype predictions in plant breeding.
 - G2PDiffusion: Cross-Species Genotype-to-Phenotype Prediction via Evolutionary Diffusion
 - A machine learning pipeline for quantitative phenotype prediction from genotype data
+- Plant genotype to phenotype prediction using machine learning.
 - 
 
 
