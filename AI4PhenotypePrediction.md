@@ -1,3 +1,8 @@
+
+- (Example) [A machine learning pipeline for quantitative phenotype prediction from genotype data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-S8-S3)
+  * Venue: BMC Bioinformatics
+  * Summary: 
+
 - A machine learning pipeline for quantitative phenotype prediction from genotype data.
 - A novel machine learning framework for phenotype prediction based on genome-wide dna methylation data.
 - Machine learning models for phenotype prediction from genotype.
@@ -30,6 +35,11 @@
 - An evaluation of machine-learning for predicting phenotype: studies in yeast, rice, and wheat
 - Graphgonet: a self-explaining neural network encapsulating the gene ontology graph for phenotype prediction on gene expression.
 - Hpod-nets: deep graph convolutional networks for predicting human protein–phenotype associations.
+- Plant Genotype to Phenotype Prediction Using Machine Learning
+- Explainable artificial intelligence for genotype-to-phenotype prediction in plant breeding: a case study with a dataset from an almond germplasm collection
+- Phenotype prediction in plants is improved by integrating large-scale transcriptomic datasets
+- Explainable artificial intelligence for genotype-to-phenotype prediction in plant breeding: a case study with a dataset from an almond germplasm collection
+- TrG2P: A transfer-learning-based tool integrating multi-trait data for accurate prediction of crop yield
 
 
 
