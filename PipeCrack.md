@@ -16,8 +16,16 @@
 
   * link to code
 
+  * Image detection example (insert image examples)
+
+  * Video detection example (insert image examples)
+
 - PyTorch
 
   * model
 
   * link to code
+
+  * Image detection example (insert image examples)
+
+  * Video detection example (insert image examples)
