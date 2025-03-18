@@ -6,6 +6,8 @@
 
 - Annotation method
 
+- Labels
+
 ## AI detection method
 
 - Tensorflow
@@ -23,6 +25,8 @@
 - PyTorch
 
   * model
+ 
+  * How to deploy
 
   * link to code
 
