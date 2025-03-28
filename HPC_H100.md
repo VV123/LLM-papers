@@ -1,31 +1,3 @@
-# how to use HPC H100 nodes
-
-
-
-## Step 1
-
-## Step 2
-
-## Step 3
-
-
-## Some questions
-- How many H100 does HPC have?
-
-  There are **4 NVIDIA H100 GPUs**, all located on node `crest-g001`. 
-  
-  NODELIST GRES
-  crest-g001 gpu:h100:4
-  
-  Which means the system has 4 NVIDIA H100 GPUs, all located on node crest-g001.
-
-- How to use multiple H100 GPUs?
-
-  Multi-GPU usage is restricted by QOSMaxGRESPerUser; only one H100 GPU can be allocated per job.
-## Possible errors   
-- Submitting a job requesting 2–4 GPUs fails due to “QOSMaxGRESPerUser”. The system restricts each job to one GPU.
-
-
 # H100 GPU Access Guide on TAMU-CC HPC
 
 ## Purpose  
@@ -112,4 +84,19 @@ GPU Name: NVIDIA H100 80GB HBM3
 - Submitting jobs with 2–4 GPUs results in a pending state with the scheduler message: `QOSMaxGRESPerUser`.
 - The system currently limits each job to one GPU based on the Quality of Service (QOS) configuration.
 - In previous tests, usage of two GPUs occurred when two independent processes were run (e.g., a Slurm job and a separate manual script), each occupying one GPU. This does not reflect multi-GPU support within a single job.
+- Submitting a job requesting 2–4 GPUs fails due to “QOSMaxGRESPerUser”. The system restricts each job to one GPU.
 
+## Some questions
+- How many H100 does HPC have?
+
+  There are **4 NVIDIA H100 GPUs**, all located on node `crest-g001`. 
+  
+  NODELIST GRES
+  crest-g001 gpu:h100:4
+  
+  Which means the system has 4 NVIDIA H100 GPUs, all located on node crest-g001.
+
+- How to use multiple H100 GPUs?
+
+  Multi-GPU usage is restricted by QOSMaxGRESPerUser; only one H100 GPU can be allocated per job.
+  
