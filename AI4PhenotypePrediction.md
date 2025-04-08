@@ -1,7 +1,7 @@
 
 - (Example) [A machine learning pipeline for quantitative phenotype prediction from genotype data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-S8-S3)
   * Venue: BMC Bioinformatics
-  * Summary: 2-3 sentences for summerization
+  * Summary: 2-3 sentences for summerization (need to add here as well)
 
 - A machine learning pipeline for quantitative phenotype prediction from genotype data.
   * Venue: BMC Bioinformatics
